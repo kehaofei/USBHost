@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidSpace\\USBHost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_c.xml",
+        "source": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\layout\\activity_c.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidSpace\\USBHost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shared_preferences.xml",
+        "source": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\layout\\activity_shared_preferences.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidSpace\\USBHost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_broadcast.xml",
+        "source": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\layout\\activity_broadcast.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidSpace\\USBHost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_b.xml",
+        "source": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\layout\\activity_b.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidSpace\\USBHost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidSpace\\USBHost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sqlite.xml",
+        "source": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\layout\\activity_sqlite.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidSpace\\USBHost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidSpace\\USBHost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_a.xml",
+        "source": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\layout\\activity_a.xml"
+    }
+]

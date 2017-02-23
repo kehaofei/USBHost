@@ -1,0 +1,448 @@
+[
+    {
+        "outputFile": "D:\\Android\\AndroidSpace\\USBHost\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 45,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 922,
+                        "endColumn": 45,
+                        "endOffset": 963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 52,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 52,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 44,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 44,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 52,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 52,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 42,
+                    "endOffset": 404
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 42,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 409,
+                    "endColumn": 42,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 718,
+                        "endColumn": 42,
+                        "endOffset": 756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 45,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 45,
+                        "endOffset": 803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 45,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 45,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 43,
+                    "endOffset": 583
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 43,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 588,
+                    "endColumn": 40,
+                    "endOffset": 624
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 969,
+                        "endColumn": 40,
+                        "endOffset": 1005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 629,
+                    "endColumn": 43,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1011,
+                        "endColumn": 43,
+                        "endOffset": 1050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 46,
+                    "endOffset": 715
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1056,
+                        "endColumn": 46,
+                        "endOffset": 1098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 720,
+                    "endColumn": 61,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endColumn": 61,
+                        "endOffset": 376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endColumn": 63,
+                    "endOffset": 841
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 63,
+                        "endOffset": 441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 846,
+                    "endColumn": 63,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 63,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 70,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 70,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 87,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endColumn": 87,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 64,
+                    "endOffset": 1129
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 64,
+                        "endOffset": 916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1134,
+                    "endColumn": 60,
+                    "endOffset": 1190
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 60,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1195,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1481
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1486,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\USBHost\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

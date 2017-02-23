@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidSpace\USBHost\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aec063be414af51098321d95c92aeabad51ea2d4">
+        <dex dex="D:\Android\AndroidSpace\USBHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_31747f3c56790f316c9cca0319b284766a91eb93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidSpace\USBHost\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db85399ea7b1ed7feaaf5d2094669356cf1e0709">
+        <dex dex="D:\Android\AndroidSpace\USBHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b6793ee0bb986fc0619f7e0ec4185bf0f9af057f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Android\AndroidSpace\USBHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_73b9883bfda7e9a6ae205d0e99c174e73ba72aaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidSpace\USBHost\app\libs\log4j-1.2.17.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5af35056b4d257e4b64b9e8069c0746e8b08629f">
+        <dex dex="D:\Android\AndroidSpace\USBHost\app\build\intermediates\transforms\dex\debug\folders\1000\2\log4j-1.2.17_c25d355f168686750919a525c0503e59a0fd6396\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidSpace\USBHost\app\libs\jdom-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d04c0f321ea337f3661cf7ede8f4c6f653a8fdd">
+        <dex dex="D:\Android\AndroidSpace\USBHost\app\build\intermediates\transforms\dex\debug\folders\1000\2\jdom-1.1_9b0e60ca8648473ab744dc95e1395d5290c0e05c\classes.dex" />
+    </item>
+
+</items>

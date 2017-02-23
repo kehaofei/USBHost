@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<ws>
+		<!-- 系统名 -->
+		<system>MasterStation</system>
+		<!-- 发布的WSDL地址 -->
+		<url><![CDATA[http://localhost:8080/M_SSM/services/WebService?wsdl]]></url>
+		<!-- 命名空间 -->
+		<namespace><![CDATA[http://impl.service.huawei.com]]></namespace>
+	</ws>
+	<ws>
+		<system>Logistics</system>
+		<url><![CDATA[http://localhost:8080/gxwms/services/GXZY_ESB_TWMS_LogisticService?wsdl]]></url>
+		<namespace><![CDATA[http://impl.service.webservice.icss.com]]></namespace>
+	</ws>
+</config>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">USBHost</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="main_send">Send</string>
+    <string name="title_activity_activity">ActivityA</string>
+    <string name="title_activity_activity_b">ActivityB</string>
+    <string name="title_activity_activity_c">ActivityC</string>
+    <string name="title_activity_broadcast">BroadcastActivity</string>
+    <string name="title_activity_shared_preferences">SharedPreferencesActivity</string>
+    <string name="shareTitle">鲜花列表</string>
+    <string name="shareBtnAdd">添加</string>
+    <string name="shareBtnDelete">删除</string>
+    <string name="shareBtnSearch">查询</string>
+    <string name="title_activity_sqlite">SQLiteActivity</string>
+    <string name="SQLiteQuery">查询表数据</string>
+    <string name="sqliteBtn">查询</string>
+    <string name="sqliteBtnAdd">增加</string>
+    <string name="sqliteBtnDelete">删除</string>
+    
+
+</resources>

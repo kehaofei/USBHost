@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xiaocheng.usbhost"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <!-- <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter> -->
+        </activity>
+        <activity
+            android:name=".TestActivity"
+            android:label="@string/title_activity_test" >
+        </activity>
+        <activity
+            android:name="com.xiaocheng.test.ActivityA"
+            android:label="@string/title_activity_activity" >
+        </activity>
+        <activity
+            android:name="com.xiaocheng.test.ActivityB"
+            android:label="@string/title_activity_activity_b" >
+        </activity>
+        <activity
+            android:name="com.xiaocheng.test.ActivityC"
+            android:label="@string/title_activity_activity_c" >
+        </activity>
+        <activity
+            android:name="com.xiaocheng.test.BroadcastActivity"
+            android:label="@string/title_activity_broadcast" >
+        </activity>
+
+        <receiver android:name="com.xiaocheng.test.HelloBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="com.eoeandroid.action.BroadcastReceiverTest" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".SharedPreferencesActivity"
+            android:label="@string/title_activity_shared_preferences" >
+           
+        </activity>
+        <activity
+            android:name="com.xiaocheng.SQLite.SQLiteActivity"
+            android:label="@string/title_activity_sqlite" >
+            
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

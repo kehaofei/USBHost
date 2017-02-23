@@ -1,0 +1,7 @@
+#Wed Feb 22 17:42:19 CST 2017
+base.0=D\:\\Android\\AndroidSpace\\USBHost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b6793ee0bb986fc0619f7e0ec4185bf0f9af057f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android\\AndroidSpace\\USBHost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_31747f3c56790f316c9cca0319b284766a91eb93\\classes.dex
+base.1=D\:\\Android\\AndroidSpace\\USBHost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_31747f3c56790f316c9cca0319b284766a91eb93
+file.0=D\:\\Android\\AndroidSpace\\USBHost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b6793ee0bb986fc0619f7e0ec4185bf0f9af057f\\classes.dex

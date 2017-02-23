@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical" >
+	<TextView
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/shareTitle" />
+	<EditText
+		android:id="@+id/shareET"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+	></EditText>
+
+	<LinearLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+		<Button
+			android:id="@+id/shareBtnAdd"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/shareBtnAdd">
+		</Button>
+		<Button
+			android:id="@+id/shareBtnDelete"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/shareBtnDelete">		   
+		</Button>
+		
+		<Button
+			android:id="@+id/shareBtnSearch"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/shareBtnSearch">		   
+		</Button>
+	</LinearLayout>
+</LinearLayout>
